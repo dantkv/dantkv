@@ -1,6 +1,6 @@
 ## Hi 👋 This is **dankt**
 
-<a href="https://github.com/dantkv"><img align="right" src="https://github-readme-stats.vercel.app/api?username=dantkv&show_icons=true&include_all_commits=true" alt="dantkv's GitHub Stats" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dantkv&show_icons=true&include_all_commits=true" alt="dantkv's GitHub Stats" />
 
 I hope I will always be a child
 

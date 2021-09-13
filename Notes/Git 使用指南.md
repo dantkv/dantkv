@@ -12,18 +12,22 @@
 <a href = "https://www.jianshu.com/p/c82a24c9d752">本章节参考链接</a>
 
 <h3>步骤一、使用命令生成RSA密钥和公钥</h3>
+
 ```git
 $ ssh-keygen -t rsa -C 'xxx@email.com' -f file_name
 ```
-> 以上命令运行后，会使用邮箱 `xxx@email.com` 在当前目录下生成文件 `file_name` 和  `file_name.pub`  ，
+
+> 以上命令运行后，会使用邮箱 `xxx@email.com` 在当前目录下生成文件 `file_name` 和  `file_name.pub` 两个文件
+> 
 > 注意：不用让文件名冲突，最好文件名有意义，能看出是哪个 git 地址的 key
 > 
-> 如下图所示
+> 命令使用示例如下图所示
 > 
 > ![ssh生成key示例](../Picture/Git/ssh-1.png "ssh生成key示例")
 
 <h3>步骤二、将 pub 后缀的文件配置到 git 仓库</h3>
 
+略
 
 <h3>步骤三、在 `~/.ssh` 目录下创建名字为 `config` 的无后缀文件</h3>
 
