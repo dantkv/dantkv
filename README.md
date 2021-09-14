@@ -1,6 +1,7 @@
 ## Hi 👋 This is **dankt**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dantkv&show_icons=true&include_all_commits=true" alt="dantkv's GitHub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dantkv&show_icons=true" alt="dantkv's GitHub Stats" />
+
 
 I hope I will always be a child
 
@@ -41,13 +42,16 @@ and being able to stare at ants for hours...haha
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=Redis&logoColor=white)
 
 
-<!-- 
-## &#x1f4c8; GitHub Stats
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantkv&langs_count=3" alt = "Top Languages"/>
-</p> 
--->
 
+<!--
+## &#x1f4c8; GitHub Stats
+[![danktv's github stats](https://github-readme-stats.vercel.app/api?username=dantkv&show_icons=true)](https://github.com/dantkv "danktv's home page")
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dantkv&repo=dantkv&show_owner=true)](https://github.com/danktv/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantkv&layout=compact)](https://github.com/dantkv/github-readme-stats)
+-->
 
 
 <!--
@@ -59,6 +63,5 @@ and being able to stare at ants for hours...haha
 
 dantkv/dantkv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
 -->
 
